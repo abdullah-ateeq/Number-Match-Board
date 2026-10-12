@@ -1,0 +1,43 @@
+package com.example.numbermatchboard.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light — warm white paper, graphite ink, muted teal (player) and muted copper (CPU).
+val LightBackground = Color(0xFFF7F4EE)
+val LightSurface = Color(0xFFFFFDF9)
+val LightSurfaceVariant = Color(0xFFEAE6DE)
+val LightSurfaceContainer = Color(0xFFF0ECE5)
+val LightSurfaceContainerHigh = Color(0xFFE6E1D8)
+val LightOnSurface = Color(0xFF1C1D1F)
+val LightOnSurfaceVariant = Color(0xFF55575C)
+val LightOutline = Color(0xFF8D8A84)
+val LightOutlineVariant = Color(0xFFD4CFC6)
+val LightPlayer = Color(0xFF1E6E64)
+val LightPlayerContainer = Color(0xFFC9E6DF)
+val LightOnPlayerContainer = Color(0xFF07332D)
+val LightCpu = Color(0xFF9A5A2B)
+val LightCpuContainer = Color(0xFFF3D9C4)
+val LightOnCpuContainer = Color(0xFF3B1E06)
+val LightTertiary = Color(0xFF4F5B86)
+val LightTertiaryContainer = Color(0xFFDCE1F7)
+val LightError = Color(0xFFB0413E)
+
+// Dark — near-black background, graphite surfaces, soft white numbers.
+val DarkBackground = Color(0xFF0E0F11)
+val DarkSurface = Color(0xFF16181B)
+val DarkSurfaceVariant = Color(0xFF24272B)
+val DarkSurfaceContainer = Color(0xFF1B1D21)
+val DarkSurfaceContainerHigh = Color(0xFF23262A)
+val DarkOnSurface = Color(0xFFE9E8E4)
+val DarkOnSurfaceVariant = Color(0xFFA9AAA9)
+val DarkOutline = Color(0xFF6E7073)
+val DarkOutlineVariant = Color(0xFF34373B)
+val DarkPlayer = Color(0xFF7CC6B8)
+val DarkPlayerContainer = Color(0xFF1D4A43)
+val DarkOnPlayerContainer = Color(0xFFCDEFE8)
+val DarkCpu = Color(0xFFDDA77B)
+val DarkCpuContainer = Color(0xFF5A3518)
+val DarkOnCpuContainer = Color(0xFFF8DEC9)
+val DarkTertiary = Color(0xFFB4BEE6)
+val DarkTertiaryContainer = Color(0xFF353F63)
+val DarkError = Color(0xFFE59A93)
